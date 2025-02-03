@@ -64,7 +64,6 @@ class ProxyConfig:
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true"),
            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=ShadowProxy66&base64=true"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/V2RAYNPLUS_GP"),
            # ChannelConfig("https://t.me/s/DirectVPN"),
            # ChannelConfig("https://t.me/s/VmessProtocol"),
