@@ -53,16 +53,16 @@ class ProxyConfig:
         # List of source URLs to fetch proxy configs from
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         initial_urls = [
-           # ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+         
+            # ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=DailyV2RY&base64=true"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=mobilesignal&base64=true"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=ShadowProxy66&base64=true"),
             ChannelConfig("https://t.me/s/Trick_mobil"),
             ChannelConfig("https://t.me/s/mobilesignal"),
             ChannelConfig("https://t.me/s/v2ray_sub"),
             ChannelConfig("https://t.me/s/ConfigsHUB2"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=ConfigsHUB2&base64=true"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=DailyV2RY&base64=true"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=mobilesignal&base64=true"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true"),
-           ChannelConfig("https://yebekhe.site/api/tce/api.php?id=ShadowProxy66&base64=true"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/V2RAYNPLUS_GP"),
            # ChannelConfig("https://t.me/s/DirectVPN"),
