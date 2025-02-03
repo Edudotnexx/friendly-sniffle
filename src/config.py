@@ -55,9 +55,9 @@ class ProxyConfig:
         initial_urls = [
          
             # ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3"),
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=DailyV2RY&base64=true"),
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=mobilesignal&base64=true#s2"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3"),
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=ShadowProxy66&base64=true#s4"),
             ChannelConfig("https://t.me/s/Trick_mobil"),
             ChannelConfig("https://t.me/s/mobilesignal"),
