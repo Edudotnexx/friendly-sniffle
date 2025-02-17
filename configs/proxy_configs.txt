@@ -26,8 +26,6 @@ vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?encryption=none
 
 vless://0f3d444c-2f3b-4180-d75b-8a7c2b4d3afb@144.202.46.125:8080?encryption=none&security=none&type=ws&path=%2F#TG%3A%40v2ray_sub
 
-vless://134656cb-e017-482b-9aca-00c20fbec317@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=4ifgqc.alligator27app.com&type=ws&alpn=http/1.1&host=4ifgqc.alligator27app.com&path=/wss#telegram 🍊 DailyV2ry
-
 vless://15ce6637-4b61-4d05-ac41-fd6acc002262@103.180.236.102:15006/?type=tcp&encryption=none#%F0%9F%9A%8090%40oneclickvpnkeys
 
 vless://18868215-bf13-5069-a0bd-7ae5304083e8@www.speedtest.net:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.de2.v2vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#TG%3A%40v2ray_sub
@@ -103,6 +101,8 @@ vless://36b000c5-1e99-439c-8152-1e77530a171e@151.101.2.133:443?encryption=none&s
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.10.103:443/?type=tcp&encryption=none&security=tls&sni=147135010103.sec19org.com#%F0%9F%90%BB30%40oneclickvpnkeys
 
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.10.103:443/?type=tcp&encryption=none&security=tls&sni=147135010103.sec19org.com&fp=chrome&packetEncoding=xudp#%F0%9F%9A%8086%40oneclickvpnkeys
+
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?encryption=none&security=tls&sni=147135010103.sec19org.com&type=tcp&headerType=none#TG%3A%40v2ray_sub
 
 trojan://3747000103274291200@216.238.99.123:443/?type=tcp&security=tls&sni=fancy-javelin.treefrog761.one#%F0%9F%90%BB39%40oneclickvpnkeys
 
@@ -202,7 +202,7 @@ trojan://65086441068973800@grown-mackerel.shiner427.skin:443/?type=tcp&security=
 
 trojan://65086441068973800@tops-lobster.shiner427.skin:443/?type=tcp&security=tls#%E2%9D%A4%EF%B8%8F7%40oneclickvpnkeys
 
-trojan://Aimer@46.254.92.191:443?sni=agepw.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪɴᴅᴏɴᴇsɪᴀ(ɪᴅ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://bpb-trojan@japan.com:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&allowInsecure=1#%F0%9F%9A%8076%40oneclickvpnkeys
 
 hysteria2://164a352d-62c5-4f11-9f99-3f5f5f9db14f@yukuai-ca.jiumaojiu.org:443/?mport=48001-48999&sni=yukuai-ca.jiumaojiu.org#%F0%9F%92%9973%40oneclickvpnkeys
 
@@ -324,8 +324,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRHOkB2MnJheV9zdWIiLA0KICAiYWRkIjogIjc5
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRHOkB2MnJheV9zdWIiLA0KICAiYWRkIjogInd3dy5zcGVlZHRlc3QubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyYzhhNjYwLWRmYTktMTFlZi1iNDM2LTIwNWM2ZDVmNWQ3OCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZXUtMi5oaWh1Lm5ldCIsDQogICJwYXRoIjogIi9laDF4czVvbCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJldS0yLmhpaHUubmV0IiwNCiAgImFscG4iOiAiIg0KfQ==
 
-vmess://eyJhZGQiOiI2OC4xODMuNjEuMjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtb2kuaXIiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MSIsInBzIjogInRlbGVncmFtIPCfjJ8gRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
 vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6IvCfkLs0MkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNDQuMjAyLjE5LjQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtb2kuaXIiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MSIsInBzIjogInRlbGVncmFtIPCfjqogRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
@@ -363,6 +361,8 @@ vmess://eyJhZGQiOiIzNC45Mi4yMDguMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIzNC45Mi4yMDguMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjllODhhMTBiLTY1NWMtNTEyMC04OWQwLTQwODYzNDE2OTU2MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzAyNTEiLCJwcyI6IvCfkpszMUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIzOC4xMTEuMTE0LjE1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMTQ2ZmM0MC01OTYyLTRlOWEtYjM2YS0yYjYwNmQwMDE0NjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0ODEyIiwicHMiOiLwn5C7NDRAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJ5dWVnMi50aWZhLnBybyIsImFpZCI6IjIiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm4xLmhrLnRpZmEucHJvIiwiaWQiOiJkOGU2ZjEyYi02NTgyLTNlZmEtODhjYy05OTJiMTNmZWU1YWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2luZG93czEwIiwicG9ydCI6IjUzMjM2IiwicHMiOiLwn5KbNDNAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4amtUMUZHRW93emp0OTNjZ1pna0JL@150.241.101.222:25543#%F0%9F%92%9A2%40oneclickvpnkeys
 
