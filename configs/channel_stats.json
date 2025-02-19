@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-19T06:41:12.790585+00:00",
+  "timestamp": "2025-02-19T07:33:49.206453+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 160,
         "valid_configs": 121,
         "unique_configs": 121,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.31,
-        "last_success": "2025-02-19T06:41:05.576738+00:00",
+        "overall_score": 93.49,
+        "last_success": "2025-02-19T07:33:42.209807+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.22,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.17,
-        "last_success": "2025-02-19T06:41:07.827994+00:00",
+        "overall_score": 81.0,
+        "last_success": "2025-02-19T07:33:44.408483+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 5,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 329,
         "valid_configs": 205,
         "unique_configs": 187,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.57,
-        "last_success": "2025-02-19T06:41:10.447845+00:00",
+        "overall_score": 87.68,
+        "last_success": "2025-02-19T07:33:46.951004+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
