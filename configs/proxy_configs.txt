@@ -62,8 +62,6 @@ vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@66.42.115.69:8080?path=%2F&security
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.140:3237?encryption=none&security=none&type=tcp&headerType=none#TG%3A%40v2ray_sub
 
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237/?type=tcp&encryption=none#%F0%9F%90%B02%40oneclickvpnkeys
-
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237/?type=tcp&encryption=none#%F0%9F%90%B83%40oneclickvpnkeys
 
 vless://1ea9f12f-cfab-400d-825c-aa70e3d6decc@fishlab.ucdavis.edu:443/?type=ws&encryption=none&host=JoinBedee--Unlimiteddev--Unlimiteddev.iR.&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&sni=fishlab.ucdavis.edu&fp=randomized#%F0%9F%8D%8D6%40oneclickvpnkeys
@@ -104,9 +102,9 @@ vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@208.72.153.34:8080?path=%2F&securit
 
 vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443/?type=ws&encryption=none&host=aval42.allgums.com&path=%2Fwss&security=tls&sni=aval42.allgums.com&alpn=http%2F1.1#%F0%9F%8D%8791%40oneclickvpnkeys
 
-trojan://3747000103274291200@185.67.125.177:443/?type=tcp&security=tls&sni=quality-albacore.adder289.quest#%F0%9F%8D%8D21%40oneclickvpnkeys
+vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=aval42.allgums.com&type=ws&alpn=http/1.1&host=aval42.allgums.com&path=/wss#telegram 🎯 DailyV2ry
 
-trojan://3747000103274291200@43.202.142.243:443/?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#%F0%9F%90%B025%40oneclickvpnkeys
+trojan://3747000103274291200@185.67.125.177:443/?type=tcp&security=tls&sni=quality-albacore.adder289.quest#%F0%9F%8D%8D21%40oneclickvpnkeys
 
 trojan://3747000103274291200@62.112.221.57:443/?type=tcp&security=tls&sni=integral-malamute.adder289.quest#%F0%9F%90%B877%40oneclickvpnkeys
 
@@ -119,8 +117,6 @@ trojan://3747000103274291200@trusting-titmouse.adder289.quest:443/?type=tcp&secu
 trojan://3774827088566296576@exotic-bengal.treefrog761.one:443/?type=tcp&security=tls#%F0%9F%90%B801%40oneclickvpnkeys
 
 trojan://3778399737045327872@188.253.22.10:443/?type=tcp&security=tls&sni=key-pangolin.treefrog761.one&allowInsecure=1#%F0%9F%8D%8D42%40oneclickvpnkeys
-
-trojan://3778399737045327872@key-pangolin.treefrog761.one:443/?type=tcp&security=tls#%F0%9F%90%B06%40oneclickvpnkeys
 
 trojan://3778399737045327872@key-pangolin.treefrog761.one:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8D%8D65%40oneclickvpnkeys
 
@@ -226,8 +222,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRHOkB2MnJheV9zdWIiLA0KICAiYWRkIjogIjc5
 
 vmess://eyJhZGQiOiI0NS43Ni42Mi4xMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vaS5pciIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4ODgxIiwicHMiOiAidGVsZWdyYW0g8J+NiiBEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiI0Ni4yNTAuMjUzLjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NWI4OGIxNC0wZmYzLTRmMjUtODk4My1lNzNkMWY5ZjNhMGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2NjE3IiwicHMiOiLwn5CwMjdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
 vmess://eyJhZGQiOiI0Ny45Ny44Mi4xMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMDljYmMzMC1kM2FjLTRmZDMtOGRlNS1jNWMxMDQ1NWZiNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMTI2IiwicHMiOiLwn42NNTJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI2NC4yMy4xMjguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtb2kuaXIiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MSIsInBzIjogInRlbGVncmFtIPCfjJ8gRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
@@ -269,10 +263,6 @@ vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfmoAgRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IjE0NDIwMjExNDE2Ni5kYXZpZGt1c2guZnVuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfmoAgRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6IjY0MjMxNzMxMi5tZXJjeXkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIOKaoe+4jyBEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiMTU1MTM4MTYxMTQ4Lm1lcmF0bmV0LmlyIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=Daily
-
-vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjogInRlbGVncmFtIPCfmoAgRGFpbHlWMnJ5Iiwic2N5IjoiYXV0byIsInNuaSI6ImRkMjExNDZ5Z2ZkU05BOTE5MTI4MTI4MGtkbTIya2FzMjEyM0Fhd2RzZDEyMzRiYjIxNzY5ODc5LmRiZ2FtZS5pciIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1U2RzWUFtaDcyS3BmUVIwZlJoWlE3@206.189.152.167:4908#%F0%9F%90%B847%40oneclickvpnkeys
 
@@ -341,10 +331,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.195.215.236:443#%F0%9F%90%B8x3%40oneclic
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.189.149.15:443#%F0%9F%90%B899%40oneclickvpnkeys
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%F0%9F%90%B8b9%40oneclickvpnkeys
-
-ss://YWVzLTI1Ni1nY206WDRZYWxWdHV0aTkxR0o5OGxpalNqYUY5ZHRlbUlLa0dpZXIxZndjanRZaz0@95.164.4.51:8443#%F0%9F%90%B024%40oneclickvpnkeys
-
-ss://YWVzLTI1Ni1nY206ZWY3MTM2NDktYzE2NC00YTM2LTlmYzItZWJmOTNkNzZlMTRm@170.64.237.214:8443#%F0%9F%90%B026%40oneclickvpnkeys
 
 ss://YWVzLTI1Ni1nY206ZjY3N2U3MjMtOTc3Ni00YmU3LWFhNTktYzQ5N2Q4OTBhYTYw@188.119.112.242:8443#%F0%9F%90%B8a5%40oneclickvpnkeys
 
