@@ -124,13 +124,9 @@ trojan://5a741da6-cab2-4ac9-acb8-8e6661372911@194.246.114.54:443/?type=tcp&secur
 
 trojan://d5c73c2e-866f-449a-a2fd-0f974f932dca@198.199.90.251:12484/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1#%F0%9F%90%BB20%40oneclickvpnkeys
 
-trojan://telegram-id-directvpn@3.11.16.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-
 trojan://telegram-id-directvpn@52.57.86.176:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%8D%8050%40oneclickvpnkeys
 
 trojan://telegram-id-privatevpns@13.37.254.17:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%8D%856%40oneclickvpnkeys
-
-trojan://telegram-id-privatevpns@13.39.38.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғʀᴀɴᴄᴇ(ғʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 
 trojan://telegram-id-privatevpns@3.67.233.6:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%90%BB3%40oneclickvpnkeys
 
@@ -264,9 +260,15 @@ vmess://eyJhZGQiOiI2Mi4xNDYuMjMyLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiI2Mi4xNDYuMjMyLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNGVkYTBlYS1hY2YwLTQ1MzgtYTAwMS1mNzQ2YTQ4MDIzN2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMjgxIiwicHMiOiLwn42FODNAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
 vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjozM2RlOmNkZmMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRvY2tlci5jb20iLCJpZCI6ImVmN2EzZGUwLTE4OGEtNDA1Yi1iNGY1LWIzYjg4MjEzYmY3YyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IjQ28J+Nj0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6Ijcz8J+Nj0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDMuMTQ5LjE4My4xNzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2E5MDc5NTYtZjY2OC00ZTZiLWVhMDMtMDk0OWYwYzljMGE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDY3NSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxMDMuMTQ5LjE4My4xNzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTZkMzg2ODMtMDgxNy00ZDkxLWJmZmEtNmYwM2RmMThkOWRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzUxMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxMDMuNjcuNzkuMTU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzNjUiLCJwcyI6IvCfjYA4NkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -274,15 +276,9 @@ vmess://eyJhZGQiOiIxMDQuMTguMTQ5Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxMDQuMjEuMTYuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJxdXJhbnR2LmlyaWJxdXJhbi5jb20iLCJpZCI6ImViODE3MTY4LTVmODMtNGZiYS1hZjk5LTg4MWVjMGU1NDdiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoiNjXwn42PQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJxdXJhbnR2LmlyaWJxdXJhbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxMDcuMTQ4LjIwNy4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODcxMiIsInBzIjoi8J+QuzYwQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMjEuMy4yMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoidXN3dXhpYW4ucGFpNTAyODgudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxMzguMTk5LjE1OC4yNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2Y2NTBjYzQtMzlkMy00ZWI1LTgyZjEtMTQ5Y2NhMGMzNDJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAiLCJwcyI6IvCfkLs2QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxNTEuMTAxLjE5Mi4xNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGVncmFtLWlzdnZwbi5kZXYiLCJpZCI6IjZlM2FjNDA2LWExNWItNDYxZC04YjA1LWNhMDFiMjg0ZDlhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6IjgwIiwicHMiOiLwn42FOUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNTEuMTAxLjEyOC4xNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGVncmFtLWlzdnZwbi5kZXYiLCJpZCI6IjZlM2FjNDA2LWExNWItNDYxZC04YjA1LWNhMDFiMjg0ZDlhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6IjgwIiwicHMiOiLwn42FMjdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTQ2LjE1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGFtdXNhLmRhb3poYW5nLnNpdGUiLCJpZCI6IjFjMWNiN2ZlLWE5MjktNGU0Ny1iMjkyLTQwNzNiNjNkMmQ0YiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoi8J+NgDg0QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMjEuNDguMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpcnZpZGVvLmNmZCIsImlkIjoiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiaXJ2aWRlby5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#%F0%9F%8D%8582%40oneclickvpnkeys
 
