@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-04T10:17:20.913356+00:00",
+  "timestamp": "2025-03-04T11:13:31.554803+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -8,11 +8,11 @@
         "total_configs": 147072,
         "valid_configs": 287,
         "unique_configs": 287,
-        "avg_response_time": 1.51,
+        "avg_response_time": 1.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.78,
-        "last_success": "2025-03-04T10:17:06.658560+00:00",
+        "overall_score": 72.52,
+        "last_success": "2025-03-04T11:13:17.110861+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 26,
@@ -77,11 +77,11 @@
         "total_configs": 75,
         "valid_configs": 29,
         "unique_configs": 29,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.39,
-        "last_success": "2025-03-04T10:17:13.841486+00:00",
+        "overall_score": 84.35,
+        "last_success": "2025-03-04T11:13:24.320900+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -95,23 +95,23 @@
     },
     {
       "url": "https://t.me/s/ConfigsHUB2",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.2,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 78.45,
+        "last_success": "2025-03-04T11:13:26.554080+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 0,
+          "vmess://": 1,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 402,
         "valid_configs": 166,
         "unique_configs": 162,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.89,
-        "last_success": "2025-03-04T10:17:18.693199+00:00",
+        "overall_score": 83.9,
+        "last_success": "2025-03-04T11:13:29.178462+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
