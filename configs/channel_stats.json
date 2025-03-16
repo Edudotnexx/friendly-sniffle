@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T03:52:03.535361+00:00",
+  "timestamp": "2025-03-16T04:37:17.741372+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 80,
         "valid_configs": 36,
         "unique_configs": 36,
-        "avg_response_time": 0.28,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.83,
-        "last_success": "2025-03-16T03:51:56.470367+00:00",
+        "overall_score": 85.92,
+        "last_success": "2025-03-16T04:37:10.707919+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.2,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.2,
-        "last_success": "2025-03-16T03:51:58.698844+00:00",
+        "overall_score": 78.53,
+        "last_success": "2025-03-16T04:37:12.888503+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 0,
+          "vmess://": 2,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 438,
         "valid_configs": 273,
         "unique_configs": 229,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.83,
-        "last_success": "2025-03-16T03:52:01.264543+00:00",
+        "overall_score": 85.79,
+        "last_success": "2025-03-16T04:37:15.482000+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
