@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T10:34:40.110055+00:00",
+  "timestamp": "2025-03-18T11:30:56.780574+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 97,
         "valid_configs": 36,
         "unique_configs": 36,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.93,
-        "last_success": "2025-03-18T10:34:33.150027+00:00",
+        "overall_score": 83.95,
+        "last_success": "2025-03-18T11:30:49.587390+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 1,
-        "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.98,
-        "last_success": "2025-03-18T10:34:35.365932+00:00",
+        "overall_score": 79.65,
+        "last_success": "2025-03-18T11:30:51.852515+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 444,
         "valid_configs": 285,
         "unique_configs": 239,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.39,
-        "last_success": "2025-03-18T10:34:37.866376+00:00",
+        "overall_score": 86.26,
+        "last_success": "2025-03-18T11:30:54.438532+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
