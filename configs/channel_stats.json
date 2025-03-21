@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-21T16:37:36.315975+00:00",
+  "timestamp": "2025-03-21T17:31:54.751457+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 93,
         "valid_configs": 48,
         "unique_configs": 48,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.61,
-        "last_success": "2025-03-21T16:37:29.453739+00:00",
+        "overall_score": 87.59,
+        "last_success": "2025-03-21T17:31:47.585199+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.21,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.18,
-        "last_success": "2025-03-21T16:37:31.698824+00:00",
+        "overall_score": 79.65,
+        "last_success": "2025-03-21T17:31:49.847287+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 2,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 315,
         "valid_configs": 194,
         "unique_configs": 167,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.4,
-        "last_success": "2025-03-21T16:37:34.111991+00:00",
+        "overall_score": 86.3,
+        "last_success": "2025-03-21T17:31:52.327240+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
