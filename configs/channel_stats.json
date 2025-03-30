@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-30T05:32:45.096173+00:00",
+  "timestamp": "2025-03-30T06:38:32.667752+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 95,
         "valid_configs": 55,
         "unique_configs": 55,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.22,
-        "last_success": "2025-03-30T05:32:38.298839+00:00",
+        "overall_score": 89.16,
+        "last_success": "2025-03-30T06:38:25.852841+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,18 +100,18 @@
         "total_configs": 20,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.26,
-        "last_success": "2025-03-30T05:32:40.488593+00:00",
+        "overall_score": 77.24,
+        "last_success": "2025-03-30T06:38:28.055679+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 2,
+          "vmess://": 1,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -120,20 +120,20 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 159,
-        "valid_configs": 103,
-        "unique_configs": 91,
-        "avg_response_time": 0.31,
+        "total_configs": 160,
+        "valid_configs": 105,
+        "unique_configs": 94,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.81,
-        "last_success": "2025-03-30T05:32:42.848263+00:00",
+        "overall_score": 88.3,
+        "last_success": "2025-03-30T06:38:30.426735+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 80,
-          "vmess://": 15,
-          "ss://": 8,
+          "vmess://": 16,
+          "ss://": 9,
           "trojan://": 0,
           "tuic://": 0
         }
