@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-30T13:38:29.852040+00:00",
+  "timestamp": "2025-03-30T14:32:03.657466+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 95,
         "valid_configs": 55,
         "unique_configs": 55,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.22,
-        "last_success": "2025-03-30T13:38:23.026096+00:00",
+        "overall_score": 89.12,
+        "last_success": "2025-03-30T14:31:56.585180+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 1,
-        "unique_configs": 1,
-        "avg_response_time": 0.17,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.99,
-        "last_success": "2025-03-30T13:38:25.232325+00:00",
+        "overall_score": 79.67,
+        "last_success": "2025-03-30T14:31:58.837021+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 3,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 184,
         "valid_configs": 122,
         "unique_configs": 111,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.82,
-        "last_success": "2025-03-30T13:38:27.616354+00:00",
+        "overall_score": 88.64,
+        "last_success": "2025-03-30T14:32:01.343615+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
