@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-02T05:18:15.769253+00:00",
+  "timestamp": "2025-04-02T06:23:27.890936+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -8,11 +8,11 @@
         "total_configs": 245000,
         "valid_configs": 411,
         "unique_configs": 411,
-        "avg_response_time": 1.43,
+        "avg_response_time": 1.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.9,
-        "last_success": "2025-04-02T05:18:01.544521+00:00",
+        "overall_score": 72.78,
+        "last_success": "2025-04-02T06:23:13.720329+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 95,
@@ -77,11 +77,11 @@
         "total_configs": 95,
         "valid_configs": 55,
         "unique_configs": 55,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.17,
-        "last_success": "2025-04-02T05:18:08.656839+00:00",
+        "overall_score": 89.02,
+        "last_success": "2025-04-02T06:23:20.964751+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -120,20 +120,20 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 225,
-        "valid_configs": 151,
-        "unique_configs": 129,
-        "avg_response_time": 0.61,
+        "total_configs": 232,
+        "valid_configs": 155,
+        "unique_configs": 131,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.22,
-        "last_success": "2025-04-02T05:18:13.537672+00:00",
+        "overall_score": 87.34,
+        "last_success": "2025-04-02T06:23:25.585047+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 116,
-          "vmess://": 18,
-          "ss://": 17,
+          "vless://": 120,
+          "vmess://": 16,
+          "ss://": 19,
           "trojan://": 0,
           "tuic://": 0
         }
