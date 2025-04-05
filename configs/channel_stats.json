@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-05T16:37:26.168881+00:00",
+  "timestamp": "2025-04-05T17:30:36.241554+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -77,11 +77,11 @@
         "total_configs": 95,
         "valid_configs": 55,
         "unique_configs": 55,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.16,
-        "last_success": "2025-04-05T16:37:19.029721+00:00",
+        "overall_score": 89.14,
+        "last_success": "2025-04-05T17:30:27.974233+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 1,
-        "unique_configs": 1,
-        "avg_response_time": 0.23,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 1.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.91,
-        "last_success": "2025-04-05T16:37:21.289151+00:00",
+        "overall_score": 76.91,
+        "last_success": "2025-04-05T17:30:31.229116+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 1,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 302,
         "valid_configs": 165,
         "unique_configs": 127,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.28,
-        "last_success": "2025-04-05T16:37:23.771273+00:00",
+        "overall_score": 82.04,
+        "last_success": "2025-04-05T17:30:33.866204+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
