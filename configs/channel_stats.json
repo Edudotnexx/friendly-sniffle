@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-23T09:35:43.178541+00:00",
+  "timestamp": "2025-04-23T10:35:55.755925+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -28,14 +28,14 @@
       "url": "https://t.me/s/Trick_mobil",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 12,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.93,
-        "last_success": "2025-04-23T09:35:31.175059+00:00",
+        "overall_score": 90.72,
+        "last_success": "2025-04-23T10:35:42.143122+00:00",
         "protocol_counts": {
           "wireguard://": 1,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 78,
         "valid_configs": 48,
         "unique_configs": 48,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.83,
-        "last_success": "2025-04-23T09:35:35.777416+00:00",
+        "overall_score": 89.38,
+        "last_success": "2025-04-23T10:35:47.072111+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0.15,
+        "valid_configs": 2,
+        "unique_configs": 2,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.77,
-        "last_success": "2025-04-23T09:35:37.962539+00:00",
+        "overall_score": 76.66,
+        "last_success": "2025-04-23T10:35:49.662231+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 3,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -120,20 +120,20 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 231,
-        "valid_configs": 117,
-        "unique_configs": 97,
-        "avg_response_time": 0.32,
+        "total_configs": 249,
+        "valid_configs": 130,
+        "unique_configs": 111,
+        "avg_response_time": 1.8,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.92,
-        "last_success": "2025-04-23T09:35:40.337475+00:00",
+        "overall_score": 81.7,
+        "last_success": "2025-04-23T10:35:53.525411+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 102,
+          "vless://": 113,
           "vmess://": 0,
-          "ss://": 8,
+          "ss://": 10,
           "trojan://": 7,
           "tuic://": 0
         }
