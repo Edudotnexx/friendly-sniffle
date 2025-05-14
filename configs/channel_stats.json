@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T18:28:54.724483+00:00",
+  "timestamp": "2025-05-14T19:21:16.564608+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -28,14 +28,14 @@
       "url": "https://t.me/s/Trick_mobil",
       "enabled": true,
       "metrics": {
-        "total_configs": 67,
+        "total_configs": 61,
         "valid_configs": 34,
         "unique_configs": 34,
-        "avg_response_time": 0.86,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.39,
-        "last_success": "2025-05-14T18:28:43.102102+00:00",
+        "overall_score": 88.3,
+        "last_success": "2025-05-14T19:21:05.282254+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -77,11 +77,11 @@
         "total_configs": 77,
         "valid_configs": 39,
         "unique_configs": 39,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.36,
-        "last_success": "2025-05-14T18:28:47.631436+00:00",
+        "overall_score": 87.43,
+        "last_success": "2025-05-14T19:21:09.812050+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -120,21 +120,21 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 380,
-        "valid_configs": 235,
-        "unique_configs": 231,
-        "avg_response_time": 0.47,
+        "total_configs": 360,
+        "valid_configs": 222,
+        "unique_configs": 218,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.33,
-        "last_success": "2025-05-14T18:28:52.407219+00:00",
+        "overall_score": 89.48,
+        "last_success": "2025-05-14T19:21:14.376542+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 179,
-          "vmess://": 42,
+          "vless://": 170,
+          "vmess://": 39,
           "ss://": 4,
-          "trojan://": 10,
+          "trojan://": 9,
           "tuic://": 0
         }
       }
