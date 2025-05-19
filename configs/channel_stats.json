@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-19T06:33:22.039784+00:00",
+  "timestamp": "2025-05-19T07:24:54.101196+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -31,11 +31,11 @@
         "total_configs": 78,
         "valid_configs": 32,
         "unique_configs": 32,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.65,
-        "last_success": "2025-05-19T06:33:10.943767+00:00",
+        "overall_score": 84.44,
+        "last_success": "2025-05-19T07:24:43.033519+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.03,
-        "last_success": "2025-05-19T06:33:15.351035+00:00",
+        "overall_score": 86.04,
+        "last_success": "2025-05-19T07:24:47.422121+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.15,
+        "valid_configs": 1,
+        "unique_configs": 1,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.77,
-        "last_success": "2025-05-19T06:33:17.537776+00:00",
+        "overall_score": 76.01,
+        "last_success": "2025-05-19T07:24:49.616932+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 7,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 318,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.05,
-        "last_success": "2025-05-19T06:33:19.848402+00:00",
+        "overall_score": 76.07,
+        "last_success": "2025-05-19T07:24:51.912901+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
