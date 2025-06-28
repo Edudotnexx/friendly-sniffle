@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-28T14:22:06.596648+00:00",
+  "timestamp": "2025-06-28T15:23:42.750304+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -31,11 +31,11 @@
         "total_configs": 84,
         "valid_configs": 31,
         "unique_configs": 31,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.64,
-        "last_success": "2025-06-28T14:21:55.628631+00:00",
+        "overall_score": 83.23,
+        "last_success": "2025-06-28T15:23:31.703074+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -74,21 +74,21 @@
       "url": "https://t.me/s/v2ray_sub",
       "enabled": true,
       "metrics": {
-        "total_configs": 53,
-        "valid_configs": 48,
-        "unique_configs": 48,
-        "avg_response_time": 0.14,
+        "total_configs": 48,
+        "valid_configs": 44,
+        "unique_configs": 44,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.43,
-        "last_success": "2025-06-28T14:22:00.005603+00:00",
+        "overall_score": 97.69,
+        "last_success": "2025-06-28T15:23:36.101957+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 36,
+          "vless://": 39,
           "vmess://": 1,
-          "ss://": 6,
-          "trojan://": 5,
+          "ss://": 3,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 90,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.77,
-        "last_success": "2025-06-28T14:22:04.401392+00:00",
+        "overall_score": 77.76,
+        "last_success": "2025-06-28T15:23:40.527831+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
