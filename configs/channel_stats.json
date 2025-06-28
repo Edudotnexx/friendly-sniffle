@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-28T20:25:20.120400+00:00",
+  "timestamp": "2025-06-28T21:22:43.214879+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Trick_mobil",
       "enabled": true,
       "metrics": {
-        "total_configs": 44,
-        "valid_configs": 33,
-        "unique_configs": 33,
-        "avg_response_time": 0.65,
+        "total_configs": 84,
+        "valid_configs": 61,
+        "unique_configs": 61,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.78,
-        "last_success": "2025-06-28T20:25:08.831460+00:00",
+        "overall_score": 92.37,
+        "last_success": "2025-06-28T21:22:32.152909+00:00",
         "protocol_counts": {
-          "wireguard://": 2,
-          "hysteria2://": 6,
-          "vless://": 9,
-          "vmess://": 6,
+          "wireguard://": 0,
+          "hysteria2://": 12,
+          "vless://": 18,
+          "vmess://": 12,
           "ss://": 1,
-          "trojan://": 9,
+          "trojan://": 18,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 48,
         "valid_configs": 44,
         "unique_configs": 44,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.61,
-        "last_success": "2025-06-28T20:25:13.294161+00:00",
+        "overall_score": 97.67,
+        "last_success": "2025-06-28T21:22:36.547690+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 106,
         "valid_configs": 22,
         "unique_configs": 21,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.71,
-        "last_success": "2025-06-28T20:25:17.786488+00:00",
+        "overall_score": 78.76,
+        "last_success": "2025-06-28T21:22:40.967944+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
