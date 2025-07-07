@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-07T08:32:58.990141+00:00",
+  "timestamp": "2025-07-07T09:28:46.914199+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Trick_mobil",
       "enabled": true,
       "metrics": {
-        "total_configs": 4,
-        "valid_configs": 4,
-        "unique_configs": 4,
+        "total_configs": 22,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.27,
-        "last_success": "2025-07-07T08:32:47.903933+00:00",
+        "overall_score": 87.92,
+        "last_success": "2025-07-07T09:28:35.665081+00:00",
         "protocol_counts": {
           "wireguard://": 4,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 2,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 6,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 48,
         "valid_configs": 44,
         "unique_configs": 44,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.69,
-        "last_success": "2025-07-07T08:32:52.301306+00:00",
+        "overall_score": 97.64,
+        "last_success": "2025-07-07T09:28:40.147051+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 82,
         "valid_configs": 60,
         "unique_configs": 56,
-        "avg_response_time": 0.28,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.2,
-        "last_success": "2025-07-07T08:32:56.796571+00:00",
+        "overall_score": 91.15,
+        "last_success": "2025-07-07T09:28:44.693375+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
