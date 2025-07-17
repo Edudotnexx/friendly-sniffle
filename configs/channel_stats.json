@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-17T06:35:08.770423+00:00",
+  "timestamp": "2025-07-17T07:27:57.168836+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -31,11 +31,11 @@
         "total_configs": 102,
         "valid_configs": 32,
         "unique_configs": 32,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.1,
-        "last_success": "2025-07-17T06:34:57.371411+00:00",
+        "overall_score": 82.02,
+        "last_success": "2025-07-17T07:27:45.788907+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
@@ -77,11 +77,11 @@
         "total_configs": 65,
         "valid_configs": 57,
         "unique_configs": 57,
-        "avg_response_time": 0.28,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.51,
-        "last_success": "2025-07-17T06:35:01.904600+00:00",
+        "overall_score": 96.52,
+        "last_success": "2025-07-17T07:27:50.317178+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -120,19 +120,19 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 189,
-        "valid_configs": 129,
-        "unique_configs": 117,
+        "total_configs": 170,
+        "valid_configs": 113,
+        "unique_configs": 105,
         "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.26,
-        "last_success": "2025-07-17T06:35:06.545737+00:00",
+        "overall_score": 89.36,
+        "last_success": "2025-07-17T07:27:54.942992+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 127,
-          "vmess://": 2,
+          "vless://": 113,
+          "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
