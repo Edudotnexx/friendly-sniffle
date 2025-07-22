@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T03:34:41.662048+00:00",
+  "timestamp": "2025-07-22T04:44:51.479108+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -31,11 +31,11 @@
         "total_configs": 68,
         "valid_configs": 22,
         "unique_configs": 22,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.4,
-        "last_success": "2025-07-22T03:34:30.466118+00:00",
+        "overall_score": 82.06,
+        "last_success": "2025-07-22T04:44:39.880061+00:00",
         "protocol_counts": {
           "wireguard://": 2,
           "hysteria2://": 5,
@@ -77,11 +77,11 @@
         "total_configs": 62,
         "valid_configs": 49,
         "unique_configs": 49,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.53,
-        "last_success": "2025-07-22T03:34:34.876862+00:00",
+        "overall_score": 94.45,
+        "last_success": "2025-07-22T04:44:44.428543+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -120,20 +120,20 @@
       "url": "https://t.me/s/DailyV2RY",
       "enabled": true,
       "metrics": {
-        "total_configs": 154,
-        "valid_configs": 104,
-        "unique_configs": 96,
-        "avg_response_time": 0.3,
+        "total_configs": 175,
+        "valid_configs": 119,
+        "unique_configs": 109,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.5,
-        "last_success": "2025-07-22T03:34:39.440185+00:00",
+        "overall_score": 89.29,
+        "last_success": "2025-07-22T04:44:49.164733+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 100,
+          "vless://": 114,
           "vmess://": 1,
-          "ss://": 1,
+          "ss://": 2,
           "trojan://": 2,
           "tuic://": 0
         }
