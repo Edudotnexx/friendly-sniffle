@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-29T20:28:29.120914+00:00",
+  "timestamp": "2025-07-29T21:25:13.161644+00:00",
   "channels": [
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=oneclickvpnkeys&base64=true#s3",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Trick_mobil",
       "enabled": true,
       "metrics": {
-        "total_configs": 38,
-        "valid_configs": 28,
-        "unique_configs": 28,
-        "avg_response_time": 0.56,
+        "total_configs": 78,
+        "valid_configs": 34,
+        "unique_configs": 34,
+        "avg_response_time": 0.71,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.59,
-        "last_success": "2025-07-29T20:28:18.178419+00:00",
+        "overall_score": 84.84,
+        "last_success": "2025-07-29T21:25:02.247512+00:00",
         "protocol_counts": {
-          "wireguard://": 2,
+          "wireguard://": 0,
           "hysteria2://": 6,
-          "vless://": 10,
+          "vless://": 15,
           "vmess://": 5,
           "ss://": 0,
-          "trojan://": 5,
+          "trojan://": 8,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 62,
         "valid_configs": 43,
         "unique_configs": 43,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.12,
-        "last_success": "2025-07-29T20:28:22.550540+00:00",
+        "overall_score": 92.13,
+        "last_success": "2025-07-29T21:25:06.607769+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
